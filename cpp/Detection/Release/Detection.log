@@ -1,0 +1,15 @@
+﻿  Config.cpp
+  ConfigParser.cpp
+  dllmain.cpp
+  hkLoadLibraryA.cpp
+  hkRtlGetFullPathName_U.cpp
+  Trampoline.cpp
+  SigScanner.cpp
+  Convertions.cpp
+  StrManipulation.cpp
+     Creating library C:\Users\daniel\Source\Repos\process-injection-guard\Release\Detection.lib and object C:\Users\daniel\Source\Repos\process-injection-guard\Release\Detection.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 634 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Detection.vcxproj -> C:\Users\daniel\Source\Repos\process-injection-guard\Release\Detection.dll

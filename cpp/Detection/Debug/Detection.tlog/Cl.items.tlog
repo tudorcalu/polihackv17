@@ -1,0 +1,9 @@
+C:\Users\daniel\source\repos\process-injection-guard\Detection\Config\Config.cpp;C:\Users\daniel\source\repos\process-injection-guard\Detection\Debug\Config.obj
+C:\Users\daniel\source\repos\process-injection-guard\Detection\Config\ConfigParser.cpp;C:\Users\daniel\source\repos\process-injection-guard\Detection\Debug\ConfigParser.obj
+C:\Users\daniel\source\repos\process-injection-guard\Detection\dllmain.cpp;C:\Users\daniel\source\repos\process-injection-guard\Detection\Debug\dllmain.obj
+C:\Users\daniel\source\repos\process-injection-guard\Detection\Hooks\hkLoadLibraryA\hkLoadLibraryA.cpp;C:\Users\daniel\source\repos\process-injection-guard\Detection\Debug\hkLoadLibraryA.obj
+C:\Users\daniel\source\repos\process-injection-guard\Detection\Hooks\hkRtlGetFullPathName_U\hkRtlGetFullPathName_U.cpp;C:\Users\daniel\source\repos\process-injection-guard\Detection\Debug\hkRtlGetFullPathName_U.obj
+C:\Users\daniel\source\repos\process-injection-guard\Detection\Hooks\Trampoline.cpp;C:\Users\daniel\source\repos\process-injection-guard\Detection\Debug\Trampoline.obj
+C:\Users\daniel\source\repos\process-injection-guard\Detection\SigScanner\SigScanner.cpp;C:\Users\daniel\source\repos\process-injection-guard\Detection\Debug\SigScanner.obj
+C:\Users\daniel\source\repos\process-injection-guard\Detection\Utility\Convertions.cpp;C:\Users\daniel\source\repos\process-injection-guard\Detection\Debug\Convertions.obj
+C:\Users\daniel\source\repos\process-injection-guard\Detection\Utility\StrManipulation.cpp;C:\Users\daniel\source\repos\process-injection-guard\Detection\Debug\StrManipulation.obj
